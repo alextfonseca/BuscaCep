@@ -20,8 +20,8 @@ Para instalar o projeto, siga estas etapas:
 Linux e macOS:
 
 ```bash
-$ git clone https://github.com/alextfonseca/T.C.O.N..git
-$ cd T.C.O.N.
+$ git clone https://github.com/alextfonseca/BuscaCep.git
+$ cd buscaCep
 $ yarn ou npm
 $ expo start
 ```
@@ -29,8 +29,8 @@ $ expo start
 Windows:
 
 ```bash
-$ git clone https://github.com/alextfonseca/T.C.O.N..git
-$ cd T.C.O.N.
+$ git clone https://github.com/alextfonseca/BuscaCep.git
+$ cd buscaCep
 $ yarn ou npm
 $ expo start
 ```
